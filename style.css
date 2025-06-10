@@ -1,0 +1,63 @@
+
+
+
+img {
+    width: auto;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+   
+
+}
+.leftimg {
+    margin-left: 300px;
+    margin-right: 0;
+}
+    
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0px;
+}
+
+div { 
+    padding: 30px;
+    width: 1000px;
+    margin-top: 10px;
+    margin-left: 100px;
+   
+    border-radius: 12px;
+
+    background-color: rgb(132, 132, 147); 
+    color: whitesmoke;
+    border-radius: 12px;
+    
+}
+.Bochimage1 {
+    width: 100px;
+    height: auto;
+    margin-left: 150px;
+    margin-right: 40px;
+
+}
+.katalog {
+    width: 280px;
+    height: auto;
+}
+.rightimg {
+    margin-left: 100px;
+    
+}
+
+    
+    
+
+
+   
+
+
+   
